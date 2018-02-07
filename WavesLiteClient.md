@@ -1,5 +1,7 @@
 # WavesPlatform
-WavesLiteClient is a mobile client to WavesPlatform
+Welcome to the WavesPlatform wiki!
+
+WavesLiteClient is a mobile client to WavesPlatform.
 
 [https://waveswallet.io](http://www.waveswalletclient.cf/waveswallet.io)
 
